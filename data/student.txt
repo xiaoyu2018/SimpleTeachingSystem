@@ -1,0 +1,16 @@
+20170001 211xxxxxxxxx01 tiffany software class1 liaoning liaoning 65
+20170002 211xxxxxxxxx02 jack computerscience class2 liaoning lioaning 75
+20170003 211xxxxxxxxx49 tom network class3 liaoning lioaning 34
+20170004 211xxxxxxxxx76 jerry network class1 liaoning lioaning 86
+20170005 211xxxxxxxxx3x mike software class1 liaoning lioaning 98
+20170006 211xxxxxxxxx32 rick network class3 liaoning lioaning 53
+20170007 211xxxxxxxxx11 henry software class3 liaoning lioaning 12
+20170008 211xxxxxxxxx12 harry network class2 liaoning lioaning 57
+20170009 211xxxxxxxxx21 carolin software class3 liaoning lioaning 36
+20170010 211xxxxxxxxx22 cotlin network class2 liaoning lioaning 98
+20170011 211xxxxxxxxx33 talor software class3 liaoning lioaning 82
+20170012 211xxxxxxxxx43 rolle network class2 liaoning lioaning 73
+20170013 211xxxxxxxxx34 cathy software class3 liaoning lioaning 71
+20170014 211xxxxxxxxx36 lincon network class2 liaoning lioaning 68
+20170015 211xxxxxxxxx63 brrack software class1 liaoning lioaning 99
+20170016 211xxxxxxxxx66 ivy computerscience class1 liaoning lioaning 100
